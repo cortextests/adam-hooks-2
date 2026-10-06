@@ -1,0 +1,10 @@
+openapi: 3.0.1
+info:
+  title: adam-hooks-2
+  x-cortex-tag: adam-hooks-2
+  x-cortex-git:
+    github:
+      repository: cortextests/adam-hooks-2
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2026-10-06T18:30:35.883559005

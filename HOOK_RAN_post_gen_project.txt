@@ -1,0 +1,5 @@
+hook=post_gen_project
+scenario=sandbox_probe
+project_name=adam-hooks-2
+cwd=/
+python=3.13.15
